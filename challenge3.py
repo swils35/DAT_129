@@ -10,8 +10,11 @@ Created on Wed Sep 11 18:50:14 2019
 
 string = "askaliceithinkshe'llknow"
 
-list = string.split()
+count = 0
 
-for i in range(1, len(list), 2):
-    print(list[i])
+for char in string:
+    count += 1
+
+for i in range(0, count, 2):
+    print(list[i], end=" ")
 
