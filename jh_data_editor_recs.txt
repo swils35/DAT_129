@@ -1,0 +1,10 @@
+~~~~~~~~~~~~~~~
+(Before I make any recommendations, I would say they all apply to my code as well :) )
+
+I don't have any specific code changes to make, but I would make thse adjustments..
+
+1. Give user more of an ability to navigate the values
+2. Print the values to give the user a sense of their "options" when adding, etc.
+
+-- Joe
+
