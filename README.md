@@ -2,4 +2,5 @@
 Repo for class projects
 
 ## Projects
-N/A (for now)
+1. Data editor - allows user to navigate/ search/ add/ remove/ update key:value pairs in nested dictionaries. 
+2. "Projects Processing"
